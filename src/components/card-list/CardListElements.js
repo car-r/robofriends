@@ -6,5 +6,5 @@ export const CardListContainer = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
     grid-gap: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 2.5em;
 `
